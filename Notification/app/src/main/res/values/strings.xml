@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google</string>
+    <string name="click">To get notification click the button below</string>
+    <string name="notify">Notify</string>
+</resources>
